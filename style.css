@@ -1,0 +1,617 @@
+body {
+    /* background-color: black; */
+    background-color: #090d0e;
+}
+
+li a {
+    color: white !important;
+}
+
+
+.textarea {
+    padding-top: 150px;
+    padding-left: 0px;
+}
+
+.textarea span {
+    color: #b19771;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.textarea h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    text-transform: uppercase;
+}
+
+.buttonOne,
+.buttonTwo {
+    background-color: #b19771;
+    padding: 15px;
+
+    border-radius: 2px;
+    width: 190px;
+    text-align: center;
+
+}
+
+.buttonTwo {
+    margin-left: 20px;
+}
+
+.buttonOne a,
+.buttonTwo a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.box {
+
+    margin-top: 5px;
+    background-color: #0e1415;
+    text-align: left;
+    margin-left: 20px;
+    width: 350px;
+
+
+}
+
+.box:first-child {
+    margin-left: 0px;
+}
+
+.maindiv {
+    position: relative;
+    padding: 100px;
+    margin-top: -140px;
+    /* background-color: black; */
+
+
+}
+
+.rowtext h1 {
+    color: white;
+    font-size: 20px;
+}
+
+.rowtext p {
+    color: gray;
+}
+
+.icon,
+.rowtext {
+    display: inline-block;
+    padding: 3px;
+}
+
+.midimg {
+    margin-top: 150px;
+
+}
+
+.midimgone {
+    margin-top: 150px;
+    padding-left: 33px;
+}
+
+.middivtext {
+    margin-top: 150px;
+    padding-left: 33px;
+}
+
+.midtext {
+    padding: 50px;
+
+}
+
+.midtext span {
+    font-size: 18px;
+    color: #c9ab81;
+
+}
+
+.midtext h1 {
+    font-size: 55px;
+    color: white
+}
+
+.midtext p {
+    color: white;
+    opacity: 0.5;
+}
+
+.mainDivtwo {
+    /* border: 2px solid red; */
+    padding: 90px;
+    background-color: #06090a;
+}
+
+.centerdiv {
+    text-align: center;
+    padding: 60px;
+}
+
+.centerdiv span {
+    font-size: 18px;
+    color: #c9ab81;
+
+}
+
+.centerdiv h1 {
+    font-size: 55px;
+    color: white
+}
+
+.centerdiv p {
+    color: white;
+    opacity: 0.5;
+}
+
+.centerdiv div .buttonTwo {
+    margin-left: 120px;
+}
+
+.foodimg,
+.noodlespan {
+    display: inline-block;
+}
+
+.foodimg img {
+    margin-top: -18px;
+}
+
+.noodlespan h1,
+.noodlespan span {
+    display: inline;
+    margin-left: 65px;
+    color: white;
+}
+
+.noodlespan h1:first-child {
+    margin-left: 12px;
+    font-size: 30px;
+}
+
+.noodlespan span {
+    background-color: #131a1c;
+    padding: 15px;
+    color: #b96728;
+    border-radius: 25px;
+    /* margin-top: 20px; */
+}
+
+.noodlespan {
+    margin-top: 20px;
+    /* border: 1px solid gold; */
+    /* width: 400px; */
+}
+
+.menu h1 a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #f0d8c6;
+}
+
+.menu h1,
+.menu span {
+    display: inline;
+    margin-left: 150px;
+
+}
+
+.menu span {
+    color: #ecbc96;
+}
+
+.menu h1:first-child {
+    margin-left: 8px;
+}
+
+.menu p {
+    font-size: 12px;
+    margin-left: 8px;
+    color: white;
+    opacity: 0.6;
+    margin-top: 10px;
+}
+
+.ourbestdiv span {
+    color: #c3924b;
+    font-size: 18px;
+}
+
+.ourbestdiv h1 {
+    color: white;
+    font-size: 55px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.videoimg {
+    background-image: url("images/v-bg.jpg");
+    opacity: 0.6;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    position: relative;
+}
+
+.videoimg img {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 590px;
+    /* margin: 0px; */
+}
+
+.maindivFourth {
+    padding: 60px;
+}
+
+.one {
+    text-align: center;
+    background-color: #06090a;
+    color: white;
+    /* padding: 20px; */
+    padding-top: 50px;
+    margin-top: 80px;
+    padding-bottom: 50px;
+    /* border: 2px solid green; */
+
+}
+
+.one h1 {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.one p {
+    opacity: 0.6;
+    font-size: 18px;
+}
+
+.three {
+
+    background-color: #c9ab81;
+    margin-top: 80px;
+    padding: 55px 55px 30px;
+
+}
+
+.three b {
+    font-weight: normal;
+    color: white;
+}
+
+.three span {
+    margin-left: 80px;
+    /* text-align: left; */
+    color: white;
+
+}
+
+.three h1 {
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.appoin {
+    color: white;
+    padding-left: 20px;
+}
+
+.appoin span {
+    color: #c9a668;
+    opacity: 0.8;
+}
+
+.maindivfifth {
+    padding: 60px;
+}
+
+.appoin b {
+    font-weight: normal;
+    font-size: 18px;
+    color: #c9a668;
+    opacity: 0.8;
+}
+
+.makeappointment {
+
+    font-size: 35px;
+    background-color: #0d1213;
+    padding: 40px;
+}
+
+.makeappointment img {
+    padding-bottom: 45px;
+}
+
+.makeappointment div {
+    display: inline-block;
+
+    /* font-size: 30px; */
+}
+
+.onlyimg {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.socialimgs a {
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.socialimgs a:nth-child(1) {
+    background-color: #3b5999;
+
+}
+
+.socialimgs a:nth-child(2) {
+    background-color: #55acee;
+
+}
+
+.socialimgs a:nth-child(3) {
+    background-color: #ce352e;
+
+}
+
+.lisecond li:first-child {
+    margin-top: 0px !important;
+}
+
+.lisecond li {
+    list-style: none;
+    margin-top: 20px;
+
+}
+
+.lisecond li a {
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.endfooter {
+    padding-left: 12px;
+    color: white;
+
+}
+
+.firstfoot p {
+    color: white;
+    opacity: 0.8;
+}
+
+.firstfoot h3 {
+    color: white;
+    font-weight: normal
+}
+
+.endfooter h1 {
+    font-size: 22px;
+}
+
+.endfooter p {
+    opacity: 0.8;
+
+}
+
+.endfooter span {
+    opacity: 0.8;
+    font-size: 15px;
+    color: #c9a668;
+}
+
+.maindivsix {
+    padding-bottom: 50px;
+}
+
+.endend {
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+}
+
+.endend span {
+    font-size: 16px;
+    color: white;
+
+
+}
+
+.endend b {
+    font-weight: normal;
+    color: #c9a668;
+}
+
+@media (max-width:520px) {
+    .menu span {
+        margin-left: 50px;
+        /* margin-bottom: 50px; */
+    }
+
+    .videoimg img {
+        margin: 100px !important;
+        margin-top: 250px !important;
+    }
+
+    .maindivFourth {
+        padding: 0px;
+        margin: 0px;
+
+    }
+
+    .maindivfifth,
+    .makeappointment {
+        margin-top: 20px;
+        padding: 0px;
+        text-align: center;
+    }
+
+    .firstfoot p,
+    .firstfoot h3,
+    .socialimgs {
+        text-align: left !important;
+    }
+
+    .firstfoot {
+        margin-bottom: 40px;
+    }
+
+    .endfooter {
+        margin-top: 40px !important;
+    }
+
+    .iframs {
+        margin-top: 40px !important;
+    }
+
+    .onlyimg {
+        margin-top: 40px;
+    }
+}
+
+
+@media (max-width:520px) {
+    .centerdiv div .buttonTwo {
+        margin-left: 60px;
+        margin-bottom: 50px;
+    }
+
+}
+
+@media (max-width:520px) {
+    .centerdiv {
+        margin-top: 50px !important;
+        margin: 0px;
+        padding: 0px;
+    }
+
+}
+
+@media (max-width:520px) {
+    .mainDivtwo {
+        margin-top: 100px;
+        padding: 30px;
+    }
+
+    .noodlespan h1 {
+        margin-left: 5px;
+        font-size: 18px !important;
+    }
+
+    .noodlespan span {
+        margin-left: 18px;
+        padding: 10px;
+    }
+
+}
+
+@media (max-width:520px) {
+    .midimgone {
+        margin-top: 10px;
+        /* padding-left: 33px; */
+        padding: 62px !important;
+    }
+
+}
+
+@media (max-width:520px) {
+    .midimg {
+        padding: 62px !important;
+
+    }
+
+}
+
+@media (max-width:520px) {
+    .midtext {
+        padding: 0px !important;
+        margin: 0px !important;
+
+    }
+
+}
+
+@media (max-width:520px) {
+    .midtext .buttonTwo {
+        margin-left: 0px;
+
+    }
+
+}
+
+@media (max-width:522px) {
+    .box {
+        width: 100% !important;
+        padding: 10px !important;
+        margin: 0px !important;
+        margin-top: 10px !important;
+    }
+}
+
+@media (max-width:1200px) {
+    .box:first-child {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width:522px) {
+    .maindiv {
+        /* width: 100%!important; */
+        padding: 0px !important;
+        /* margin: 0px!important;
+        margin-top: 10px!important; */
+    }
+}
+
+@media (max-width:400px) {
+    .box:first-child {
+        margin-left: 30px;
+
+    }
+}
+
+@media (max-width:400px) {
+    .box {
+        margin-top: 10px;
+
+    }
+}
+
+@media only screen and (max-width : 994px) {
+    .togglebut {
+        position: relative;
+        right: 330px;
+    }
+}
+
+@media only screen and (max-width : 536px) {
+
+    .buttonOne a,
+    .buttonTwo a {
+
+        font-size: 10px;
+    }
+
+    .buttonOne,
+    .buttonTwo {
+        width: 200px;
+    }
+}
+
